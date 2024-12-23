@@ -1,0 +1,1 @@
+- Los negocios no son recapturados, sino que producen ilimitadamente nuevas unidades de ciudadanos judíos. El proceso no funciona cuando se recaptura los medios de producción, sino cuando todos los judíos están muertos.
