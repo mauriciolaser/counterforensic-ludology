@@ -1,5 +1,15 @@
+## English
 ### About
-Este es el repositorio de tesis de Mauricio
+¡Hola! This repo hosts an adapted version of my [Master's thesis](https://trepo.tuni.fi/handle/10024/161666). 
 
-### Links
-Notion: https://www.notion.so/mcastrov/Tesis-de-Maestr-a-1280a9a5407b41db9be823fb6f9d1e8a
+This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+
+Contact me at: contacto@perulainen.com
+
+## Castellano
+### Acerca de 
+¡Hola! Este repo contiene una versión adaptada de mi [tesis de maestría](https://trepo.tuni.fi/handle/10024/161666).
+
+Este trabajo cuenta con la licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
+
+Mi contacto: contacto@perulainen.com
