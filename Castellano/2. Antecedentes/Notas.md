@@ -1,0 +1,7 @@
+[1]: Booth ha denominado a estos discursos como los "ludic discourses" del juego. En esta tesis, al referirme a los discursos dominantes, también hago alusión a este concepto presentado por Booth.
+
+[2]: Los autores usan como referencia las críticas que recibió el juego Andean Abyss (Ruhnke, 2012) en los foros de BoardGameGeek por darle a los jugadores la posibilidad de cometer actos de terrorismo.
+
+[3]: Boluk y LeMieux (2017) han observado que los juegos, el acto de jugar, y las culturas de juego están colonizadas por los discursos dominantes del juego digital y de sus industrias. Frente a esta situación ambos autores proponen la articulación de prácticas críticas en las que hacer, pensar y jugar juegos ocurra en un mismo movimiento.
+
+[4]: “Détournement – a diversion, a detour, a seduction, a plagiarism, an appropriation, even perhaps a hijacking – is the integration of present or past artistic productions into a construction that surpasses them (...) That culture can be copied, that it is nothing but a copy, is merely a statement of fact. The trick is to turn the possibility of copying into an act that restores agency to the act of appropriation, rather than merely adding to the stock of worthless copies that surround us. The key to détournement is not to appropriate the image, but to appropriate the power of appropriation itself”. (Debord & Wolman, 1956).

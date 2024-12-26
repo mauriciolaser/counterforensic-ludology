@@ -1,0 +1,1 @@
+[1]: Prueba de la influencia de esta forma de hacer propaganda es que la misma estrategia fue implementada más adelante en Argentina, cuando en el país se organizó la Copa Mundial de Fútbol 1978 durante los años más sanguinarios de la dictadura militar.

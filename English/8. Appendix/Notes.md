@@ -1,0 +1,1 @@
+[1]: In some cases, this is not possible because the game is unavailable or because its content affects the researcher’s safety. 

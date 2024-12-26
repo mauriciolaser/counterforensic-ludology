@@ -1,0 +1,3 @@
+[1]: Esta mirada ha tenido un impacto significativo en la cultura popular (por ejemplo, en las series de detectives), y desde una perspectiva crítica se ha observado que es una "fundamental aesthetic closely tied to post-9/11 extensive surveillance discourse (...) and the broader context of the post-panopticon" (Elyamany, 2022). Existe un creciente cuerpo de reflexión e investigación sobre la influencia de esta mirada en la cultura popular, pero considero que este excede el ámbito de esta tesis. Ha sido una decisión mía emplear una definición específica del concepto para teorizar sobre mi propia práctica crítica.
+
+[2]: Este último requisito no se ha cumplido hasta ahora, y por ello ninguna de las versiones de _Juden Raus!_ creadas para esta tesis ha sido hecha pública.

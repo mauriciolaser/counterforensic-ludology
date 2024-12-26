@@ -1,0 +1,1 @@
+[1]: Evidence of the influence of this approach to propaganda is that the same strategy was later implemented in Argentina, when the country hosted the 1978 FIFA World Cup during the bloodiest years of the military dictatorship.
